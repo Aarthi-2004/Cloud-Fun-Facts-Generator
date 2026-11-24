@@ -1,11 +1,10 @@
 # Cloud-Fun-Facts-Generator
-# Cloud-Fun-Facts-Generator
+
 
 
 
 ## Architecture
-
-![Architecture](architecture2.png)
+![Architecture](Architecture%202.jpeg)
 
 
 ☁️ Cloud Fun Facts Generator | AWS Lambda & API Gateway 🚀
